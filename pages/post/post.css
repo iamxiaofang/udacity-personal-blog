@@ -1,0 +1,10 @@
+@import url(/assets/css/typography.css);
+@import url(/assets/css/color.css);
+@import url(/assets/css/button.css);
+
+.content {
+  background-color: pink;
+  border: 3px solid red;
+  /* grid-columm-template: 1fr; */
+  grid-auto-rows: (100px auto);
+}
