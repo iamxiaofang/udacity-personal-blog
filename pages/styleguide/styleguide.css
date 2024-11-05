@@ -1,6 +1,7 @@
-@import url(/assets/css/typography.css);
-@import url(/assets/css/color.css);
-@import url(/assets/css/button.css);
+@import url(../../assets/css/typography.css);
+@import url(../../assets/css/color.css);
+@import url(../../assets/css/button.css);
+@import url(../../assets/css/layout.css);
 
 .color {
   width: 100px;
