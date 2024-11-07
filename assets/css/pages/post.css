@@ -1,0 +1,11 @@
+@import url(../shared/typography.css);
+@import url(../shared/color.css);
+@import url(../shared/button.css);
+@import url(../shared/layout.css);
+
+#author img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
